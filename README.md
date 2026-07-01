@@ -125,7 +125,6 @@ npm start
 I plan to continue improving this project by adding:
 
 * 🔍 Search functionality
-* 🏷️ Task categories and priorities
 * 📅 Due dates and reminders
 * 👤 User authentication (JWT)
 * 🌙 Dark mode
